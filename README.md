@@ -34,7 +34,7 @@ This is a Python-based Pong-style game built using the **Turtle Graphics Library
 ### Usage
 
 ## 🎯 Objective
-- Players must use their paddles to hit the main ball and collect yellow balls to score points.
+- Players must use their paddles to hit the main ball and collect cone to score points.
 - The score is tracked for both the left player (Player 1) and the right player (Player 2).
 - The game ends after 60 seconds.
 
