@@ -31,15 +31,12 @@ This is a Python-based Pong-style game built using the **Turtle Graphics Library
 
       Run file game.py
 
-## Usage
-
-### Objective of the Game
-Players control paddles to hit and interact with the ball, aiming to score points by hitting targets (Cones) and obstacles. The goal is to achieve the highest score before time runs out or complete all the levels.
+### Usage
 
 ## 🎯 Objective
 - Players must use their paddles to hit the main ball and collect yellow balls to score points.
 - The score is tracked for both the left player (Player 1) and the right player (Player 2).
-- The game ends after 63 seconds.
+- The game ends after 60 seconds.
 
 ---
 
