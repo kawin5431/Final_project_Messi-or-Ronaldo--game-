@@ -22,10 +22,10 @@ This is a Python-based Pong-style game built using the **Turtle Graphics Library
    ```bash
    https://github.com/kawin5431/Final_project_Messi-or-Ronaldo--game-.git
    ```
-2. Set environment
+2. Set environment:
    
       Set Interpreter and environment before run file.    
    
-3. Run the game using the following command:
+3. Run the game:
 
       Run file game.py
