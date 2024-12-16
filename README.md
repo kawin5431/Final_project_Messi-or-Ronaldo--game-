@@ -82,7 +82,7 @@ Players control paddles to hit and interact with the ball, aiming to score point
 ---
 
 ### UML Class Diagram
-<img src="https://pic.in.th/image/UML-Class-Diagram-Rectangles.mIulyD" alt="UML Class Diagram" width="600">
+<img src="[![UML-Class-Diagram-Rectangles.png](https://i.postimg.cc/qqwyhrtx/UML-Class-Diagram-Rectangles.png)](https://postimg.cc/Zv9C21xW)" alt="UML Class Diagram" width="600">
 
 
 
